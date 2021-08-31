@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin:0; 
+    background-color: black;
+}
+.btn {
+    padding:12px 20px;
+    text-align: center;
+    background-color: royalblue;
+    color: white;
+}
+.btn:hover{
+    background-color: dodgerblue;
+}
